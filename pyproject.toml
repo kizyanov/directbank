@@ -6,7 +6,7 @@ authors = ["Toony <kizyanov@protonmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.9"
-xsdata = "^22.3"
+xsdata = "22.4"
 
 [tool.poetry.dev-dependencies]
 

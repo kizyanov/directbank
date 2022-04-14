@@ -1,6 +1,6 @@
 [[package]]
 name = "xsdata"
-version = "22.3"
+version = "22.4"
 description = "Python XML Binding"
 category = "main"
 optional = false
@@ -16,10 +16,10 @@ test = ["codecov", "pre-commit", "pytest", "pytest-benchmark", "pytest-cov", "to
 [metadata]
 lock-version = "1.1"
 python-versions = "^3.9"
-content-hash = "3dbc6098268ba99efe7f2acbca38ef972ad5cf17a7011687bbdd9217c0bee757"
+content-hash = "78dbd742a7d50724e94def64f37d64d814aede4c0bf5472ceb5ff950fe008ec7"
 
 [metadata.files]
 xsdata = [
-    {file = "xsdata-22.3-py3-none-any.whl", hash = "sha256:22bd87cb0b22792ef6ed53df8aa21f919792f6b026c3ad2405e1f32e50e82b6b"},
-    {file = "xsdata-22.3.tar.gz", hash = "sha256:c7d0596a35235e45a2a81c4c00d869ecd2495aa83d4e7c97988ba7f496efe1d2"},
+    {file = "xsdata-22.4-py3-none-any.whl", hash = "sha256:be8837e0e9c3e9866add6f9856571b23f353142e80a129224af33317de38a525"},
+    {file = "xsdata-22.4.tar.gz", hash = "sha256:f66bee5bda86069707c31e474392def30c07a4ec2907ecaa43bdff40cd5bb085"},
 ]
