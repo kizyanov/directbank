@@ -1,4 +1,4 @@
 # directbank
 ### Test
 
-![Gitlab code coverage](https://img.shields.io/gitlab/coverage/kizyanov/directbank/master)
+![PyPI - Downloads](https://img.shields.io/pypi/dm/directbank)
