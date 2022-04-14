@@ -1,8 +1,25 @@
 [tool.poetry]
 name = "directbank"
-version = "0.0.1"
+version = "0.0.9"
 description = ""
 authors = ["Toony <kizyanov@protonmail.com>"]
+license = "MIT"
+readme = "README.md"
+homepage = "https://github.com/kizyanov/directbank"
+repository = "https://github.com/kizyanov/directbank"
+keywords = ["directbank"]
+classifiers = [
+    "Topic :: Software Development :: Documentation",
+    "Topic :: Software Development :: Libraries :: Python Modules",
+]
+
+include = [
+    "LICENSE",
+]
+
+packages = [
+    { include = "directbank", from = 'src'},
+]
 
 [tool.poetry.dependencies]
 python = "^3.9"
