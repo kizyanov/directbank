@@ -3,7 +3,7 @@ from decimal import Decimal
 from enum import Enum
 from typing import List, Optional
 from xsdata.models.datatype import XmlDate, XmlDateTime
-from models.ExchCommon import (
+from ExchCommon import (
     BankOrderApp,
     BankPartyType,
     BankType,

@@ -1,7 +1,7 @@
 from dataclasses import dataclass, field
 from typing import List, Optional
 from xsdata.models.datatype import XmlDate, XmlDateTime
-from models.ExchCommon import (
+from ExchCommon import (
     ParticipantType,
     SignatureType,
 )

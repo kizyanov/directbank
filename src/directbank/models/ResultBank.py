@@ -1,8 +1,8 @@
 from dataclasses import dataclass, field
 from typing import List, Optional
 from xsdata.models.datatype import XmlDateTime
-from models.ExchCommon import ErrorType
-from models.Packet import Packet
+from ExchCommon import ErrorType
+from Packet import Packet
 
 __NAMESPACE__ = "http://directbank.1c.ru/XMLSchema"
 
