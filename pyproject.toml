@@ -1,12 +1,12 @@
 [tool.poetry]
 name = "directbank"
-version = "1.0.1"
+version = "1.0.2"
 description = ""
 authors = ["Toony <kizyanov@protonmail.com>"]
 license = "MIT"
 readme = "README.md"
-homepage = "https://github.com/kizyanov/directbank"
-repository = "https://github.com/kizyanov/directbank"
+homepage = "https://gitlab.com/kizyanov/directbank"
+repository = "https://gitlab.com/kizyanov/directbank"
 keywords = ["directbank"]
 classifiers = [
     "Topic :: Software Development :: Documentation",
